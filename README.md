@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chris-Baugh
-- 👀 I’m interested in Vue.JS, Javascript and C#
+- 👀 I’m interested in Vue.JS
 - 🌱 I’m currently learning Kotlin
 
 <!---
